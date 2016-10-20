@@ -1,9 +1,8 @@
 
 h1{
-	color: red;
+	color: black;
 	text-align: center;
-	text-decoration: underline;
-	font-family: "Comic Sans MS";
+	size: 20px; 
 }
 
 #anotherh1{
