@@ -8,8 +8,8 @@ h1{
 	}
 RedHoodBG
 {
-	size = 50%; 
-	border = 5px;
-	align = center;
+	background-size: 50%;
+	background-attachment: fixed;
+	background-position: center;
 }
 /* comment */
