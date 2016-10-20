@@ -5,6 +5,9 @@ h1{
 	font-size: 30px;
 	font-style: oblique;
 	font-family: "Lucida Calligraphy";
+	}
+RedHoodBG{
+	border = 5px;
+	align = center;
 }
-
 /* comment */
