@@ -2,30 +2,9 @@
 h1{
 	color: black;
 	text-align: center;
-	font-size: 40px; 
-}
-
-#anotherh1{
-	color: blue;
-	font-family: "Times";
-}
-
-#anotherh1:hover{
-	color: yellow;
-	opacity: 0;
-	transform: translateY(2px);
-}
-
-#thisisadiv{
-	background-color: red;
-	height: 100px;
-	width: 100px;
-}
-
-#purple{
-	background-color: purple;
-	height: 50px;
-	width: 50px;
+	font-size: 30px;
+	font-style: oblique;
+	font-family: monospace "Lucida Calligraphy";
 }
 
 /* comment */
